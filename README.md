@@ -1,6 +1,5 @@
 # CrimeSight: Intelligent Surveillance System
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![.NET](https://img.shields.io/badge/.NET-8.0-purple.svg)](https://dotnet.microsoft.com/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![CUDA](https://img.shields.io/badge/CUDA-Supported-green.svg)](https://developer.nvidia.com/cuda-zone)
@@ -109,14 +108,14 @@ CrimeSight is an advanced AI-powered intelligent surveillance system that levera
 
 ### Core Detection Models
 
-| Model | Purpose | Size | Framework |
-|-------|---------|------|-----------|
-| `yolo11m-pose.onnx` | Pose estimation & weapon detection | 80MB | YOLOv11 |
-| `weaponOnly-yolo11m.onnx` | Weapon-specific detection | 77MB | YOLOv11 |
-| `FightingAndViolence_s3d.onnx` | Violence classification | 30MB | S3D |
-| `fireAndWeapon_yolo11n.onnx` | Fire & weapon detection | 12MB | YOLOv11 |
-| `personNormal_yolo11n.onnx` | Person detection (normal) | 10MB | YOLOv11 |
-| `personNightVision_yolo11n.onnx` | Person detection (night) | 10MB | YOLOv11 |
+| Purpose                          | Framework |
+|----------------------------------|-----------|
+| Pose estimation & weapon detection | YOLOv11  |
+| Weapon-specific detection          | YOLOv11  |
+| Violence classification            | S3D      |
+| Fire & weapon detection            | YOLOv11  |
+| Person detection (normal)         | YOLOv11  |
+| Person detection (night)          | YOLOv11  |
 
 ### Performance Specifications
 
