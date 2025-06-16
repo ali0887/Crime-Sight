@@ -8,6 +8,13 @@
 
 CrimeSight is an advanced AI-powered intelligent surveillance system that leverages cutting-edge deep learning and computer vision technologies to detect, classify, and respond to criminal activities in real-time. The system provides comprehensive monitoring capabilities across multiple camera feeds with automated incident detection, cross-camera tracking, and intelligent alerting mechanisms.
 
+## 🎬 Demo Video
+
+Watch CrimeSight in action:  
+[![CrimeSight Demo](https://img.youtube.com/vi/0fOFgAkEEaA/0.jpg)](https://youtu.be/0fOFgAkEEaA)
+
+> 📽️ *Click the image above to play the demo on YouTube.*
+
 ### 🌟 Key Highlights
 
 - **Real-time Crime Detection** with 99%+ accuracy
